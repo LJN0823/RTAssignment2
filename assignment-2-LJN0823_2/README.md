@@ -1,12 +1,7 @@
-## Requirements for Assignment-2
-[Read the instruction](https://github.com/STIW3054-A221/class-activity-soc/blob/main/Assignment-2.md)
-
 ## Your Info:
 |   Name    | Matric Number |  Phone Number  |
 |:---------:|:-------------:|:--------------:|
 | Li Jia Ni |    278830     |  017-258 2622  |
-
-![Picture](images/278830.jpeg)
 
 ## Introduction
 This Java Program provided a platform for all the desire users to conduct their booking room in University Utara Malaysia anywhere anytime via the telegram bot. 
