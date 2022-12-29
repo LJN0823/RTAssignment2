@@ -49,8 +49,6 @@ New user should provide personal details like name, staff id, phone and so on to
 
 ### Relationship of Database
 ![relationship between table](images/relationship.png)
-## Youtube Presentation
-[My Youtube Presentation](https://youtu.be/FpEyFaVZC-E)
 ## References (Not less than 10)
 1. Taro L. Saito (2022) sqlite-jdbc [Source Code]. https://github.com/xerial/sqlite-jdbc
 2. rubenlagus (2022) TelegramBots[Source Code]. https://github.com/rubenlagus/TelegramBots/wiki/Getting-Started
